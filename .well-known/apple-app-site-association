@@ -1,0 +1,15 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": [
+          "TENQMTMR26.com.masahikokobayashi.flutterlab.local",
+          "TENQMTMR26.com.masahikokobayashi.flutterlab"
+        ],
+        "components": [
+          { "/": "/*" }
+        ]
+      }
+    ]
+  }
+}

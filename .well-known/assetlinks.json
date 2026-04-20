@@ -1,0 +1,10 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.masahikokobayashi.flutterlab.local",
+      "sha256_cert_fingerprints": ["2C:9B:86:89:F4:FD:7D:59:EA:EF:41:6C:E6:A5:F0:5E:D4:06:4F:0A:25:15:3E:B6:95:B2:FF:90:37:B9:C6:B9"]
+    }
+  }
+]
